@@ -1,1 +1,4 @@
 ## End to End Machine Learning project
+
+In this project, I worked with a dataset to predict math scores based on various features like gender, race, parental education level, and test preparation. I began by preprocessing the data, handling categorical variables through OneHotEncoding and standardizing the numerical features. I then trained several regression models, including linear models like Linear Regression, Lasso, and Ridge, as well as tree-based models such as Random Forest, Decision Tree, and AdaBoost. After training the models, I evaluated their performance using metrics like Mean Absolute Error, Root Mean Squared Error, and R2 score to see how well they predicted the math scores. Ultimately, Ridge regression performed the best, with the highest R2 score on the test set, meaning it was the most effective at explaining the variance in the data and provided the most accurate predictions.
+
